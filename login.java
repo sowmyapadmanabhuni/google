@@ -3,4 +3,4 @@ class login
 }
 
 public class
-system.out.printlnsoo
+system.out.println
