@@ -1,2 +1,2 @@
-class oms
+lass oms
 
