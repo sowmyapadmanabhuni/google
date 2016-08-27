@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 Class login
-=======
+
 Class login
->>>>>>> test
+
 {
 }
 
