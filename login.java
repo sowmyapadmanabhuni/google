@@ -1,4 +1,8 @@
-llass login
+<<<<<<< HEAD
+Class login
+=======
+Class login
+>>>>>>> test
 {
 }
 
