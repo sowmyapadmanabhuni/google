@@ -1,4 +1,4 @@
-class login
+Class login
 {
 }
 
